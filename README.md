@@ -10,3 +10,6 @@ The key advantages of integrating machine learning into the pricing equation are
 Machine learning price recommendation systems have the potential to revolutionize the e-commerce landscape by significantly reducing the manual effort and time required to make pricing decisions. Moreover, they contribute to a fair and competitive marketplace by ensuring that sellers are equipped with the tools to make pricing decisions that align with market conditions, customer preferences, and their business goals.
 
 As e-commerce platforms continue to evolve, the role of machine learning in automating and improving various facets of the online shopping experience, including pricing recommendations, becomes increasingly crucial. This technology not only streamlines operations but also enhances the overall user experience, making it a win-win for both sellers and consumers in the digital marketplace.
+
+Dataset can be downloaded from kaggle.
+"https://www.kaggle.com/datasets/saitosean/mercari"
