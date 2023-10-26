@@ -13,3 +13,5 @@ As e-commerce platforms continue to evolve, the role of machine learning in auto
 
 Dataset can be downloaded from kaggle.
 "https://www.kaggle.com/datasets/saitosean/mercari"
+
+Extract both the train.tsv and test.tsv wait until the two files are completely uploaded.
